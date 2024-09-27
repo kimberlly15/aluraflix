@@ -1,9 +1,23 @@
 body {
-color: brown;
-background-color: beige;
-
-
+    color: brown;
+    background: beige;
 }
 
+header {
+    border: solid 2px rgb(116, 52, 124);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(116, 52, 124);
 
+}
+section{
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex; 
+    justify-content: center;
+}
 
+div{
+    margin-right: 20px;
+}
