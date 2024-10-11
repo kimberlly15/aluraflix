@@ -1,6 +1,8 @@
 body {
     color: brown;
-    background: beige;
+    background: beige; 
+    font-family: "Noto+Sans", sans-serif;
+    margin: 0px;
 }
 
 header {
@@ -18,6 +20,14 @@ section{
     justify-content: center;
 }
 
-div{
-    margin-right: 20px;
+.chamada-texto { 
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
